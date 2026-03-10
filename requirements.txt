@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+python-multipart
+requests
+openai==0.28
+ipdb
